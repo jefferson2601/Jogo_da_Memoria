@@ -1,4 +1,4 @@
-# jogoMemoriaIA
+# Jogo da Memória 
 criando um jogo simples com python
 # Jogo da Memória com IA
 
